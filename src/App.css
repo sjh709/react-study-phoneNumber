@@ -5,6 +5,7 @@
 
 .wrapper {
   margin-top: 2rem;
+  margin-bottom: 3rem;
   width: 70rem;
 }
 
@@ -17,10 +18,10 @@
 }
 
 .contact-item {
-  margin-top: 2.5rem;
+  margin-top: 0.3rem;
   border: 1px solid #dcdcdc;
   padding: 1rem 0.1rem;
-  margin-left: 0.2rem;
+  margin-left: 0.1rem;
   border-radius: 8px;
 }
 
@@ -38,4 +39,8 @@
 .name-style {
   font-weight: 700;
   font-size: 1.2rem;
+}
+
+.search-box {
+  margin-bottom: 2.5rem;
 }
